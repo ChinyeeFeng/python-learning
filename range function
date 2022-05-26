@@ -1,0 +1,17 @@
+example"
+for i in range(-8,-2,2):
+    print(i)
+result:-8
+-6
+-4
+for x in range(3, 10):
+  print(x) 
+  3
+4
+5
+6
+7
+8
+9
+#In the first example, the last 2 means common difference. 
+#In the second example, the left one is a closed interval, but the right one is an open interval
